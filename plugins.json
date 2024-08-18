@@ -1,6 +1,7 @@
 [
   {
     "name": "testplugin",
+    "icon": "https://placehold.jp/150x150.png",
     "version": "1.0.0",
     "description": "This is a sample plugin",
     "author": "Author Name",
@@ -9,6 +10,7 @@
   },
   {
     "name": "testplugin2",
+    "icon": "https://placehold.jp/150x150.png",
     "version": "1.0.0",
     "description": "This is a sample plugin",
     "author": "Author Name",
