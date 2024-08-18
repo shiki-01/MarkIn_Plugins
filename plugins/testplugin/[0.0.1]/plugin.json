@@ -1,0 +1,8 @@
+{
+    "version": "1.0.0",
+    "description": "This is a sample plugin",
+    "author": "Author Name",
+    "license": "MIT",
+    "name": "testplugin",
+    "gitrepo": "https://github.com/shiki-01/sample_plugin"
+}
